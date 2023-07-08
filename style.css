@@ -1,0 +1,8 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #D3D3D3;
+    min-height: 90vh;
+}
